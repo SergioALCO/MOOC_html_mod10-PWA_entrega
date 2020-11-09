@@ -7,6 +7,11 @@ const CACHE_NAME = 'static-cache-v9';
 const FILES_TO_CACHE = [
   'offline.html',
   'index.html',
+  '/assets/camera128.png',
+  '/assets/camera192.png',
+  '/assets/camera256.png',
+  '/assets/camera512.png',
+  '/assets/camera640.png',
   '/assets/bueno.png',
   '/assets/bueno_muerto.png',
   '/assets/clases.png',
